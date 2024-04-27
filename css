@@ -1,11 +1,3 @@
-/* ==UserStyle==
-@name           kirka.io - Apr. 2024
-@namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description    A new userstyle
-@author         Me
-==/UserStyle== */
-
 @import url('https://sheriffcarry.github.io/Nameless.css');
 :root{
     --clr-primary-100: 21, 100%, 50% !important;
